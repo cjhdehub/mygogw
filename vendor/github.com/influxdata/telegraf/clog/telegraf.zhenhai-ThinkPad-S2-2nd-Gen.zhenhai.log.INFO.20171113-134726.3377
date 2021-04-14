@@ -1,0 +1,4 @@
+Log file created at: 2017/11/13 13:47:26
+Running on machine: zhenhai-ThinkPad-S2-2nd-Gen
+Binary: Built with gc go1.9 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg

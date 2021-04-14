@@ -1,0 +1,14 @@
+{
+  "name": "network_quality_performance_test",
+  "version": "1.0.0",
+  "description": "influx db performance test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^2.4.3"
+  }
+}

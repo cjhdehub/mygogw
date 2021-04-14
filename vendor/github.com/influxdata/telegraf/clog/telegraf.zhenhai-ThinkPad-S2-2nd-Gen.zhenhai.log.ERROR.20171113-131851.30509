@@ -1,0 +1,47 @@
+Log file created at: 2017/11/13 13:18:51
+Running on machine: zhenhai-ThinkPad-S2-2nd-Gen
+Binary: Built with gc go1.9 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1113 13:18:51.073192   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:18:52.073087   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:18:53.073135   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:18:54.073180   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:01.323085   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:02.323245   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:03.322713   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:11.322560   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:12.322625   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:13.322878   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:21.322935   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:22.322973   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:23.322543   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:31.323050   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:32.322916   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:33.322886   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:41.323077   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:42.322827   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:43.322919   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:51.323160   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:52.323050   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:19:53.322837   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:01.322414   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:02.322666   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:03.322926   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:11.322839   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:12.322494   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:13.323132   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:21.322952   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:22.322610   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:23.322662   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:31.322058   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:32.323061   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:33.323146   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:41.322423   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:42.323099   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:43.322946   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:51.322886   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:52.322473   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:20:53.322395   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:21:01.323291   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:21:02.323015   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
+E1113 13:21:03.322930   30509 broker.go:98] Failed to connect to broker 23c24c2a54c4:9092: dial tcp: lookup 23c24c2a54c4: no such host
